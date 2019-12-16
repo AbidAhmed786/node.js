@@ -1,0 +1,44 @@
+[
+  {
+    "name": "MI Redmi 1",
+    "image": "https://rukminim1.flixcart.com/image/312/312/k1fbmvk0/mobile/g/y/q/mi-redmi-8-mzb8253in-original-imafhyacjwjwxmsx.jpeg?q=70",
+    "features": [
+      "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+      "15.8 cm (6.22 inch) HD+ Display",
+      "12MP + 2MP | 8MP Front Camera",
+      "5000 mAh Battery",
+      "Qualcomm Snapdragon 439 Processor"
+    ],
+    "original_price": 10000,
+    "discounted_price": 8000,
+    "rating": 4.2
+  },
+  {
+      "name": "MI Redmi 2",
+      "image": "https://rukminim1.flixcart.com/image/312/312/k0y6cnk0/mobile/u/e/p/mi-redmi-8a-mzb8458in-original-imafkmhycvhcsrzm.jpeg?q=70",
+      "features": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+        "15.8 cm (6.22 inch) HD+ Display",
+        "12MP + 2MP | 8MP Front Camera",
+        "5000 mAh Battery",
+        "Qualcomm Snapdragon 439 Processor"
+      ],
+      "original_price": 8999,
+      "discounted_price": 6999,
+      "rating": 3.2
+  },
+  {
+      "name": "MI Redmi 3",
+      "image": "https://rukminim1.flixcart.com/image/312/312/jt641ow0/mobile/d/w/k/mi-redmi-note-7-pro-na-original-imafe4bbyfppbnuu.jpeg?q=70",
+      "features": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+        "15.8 cm (6.22 inch) HD+ Display",
+        "12MP + 2MP | 8MP Front Camera",
+        "5000 mAh Battery",
+        "Qualcomm Snapdragon 439 Processor"
+      ],
+      "original_price": 15999,
+      "discounted_price": 10999,
+      "rating": 2.2
+  }
+]
